@@ -1,0 +1,15 @@
+﻿  Board.cpp
+  Creature.cpp
+  Fruit.cpp
+  Ghost.cpp
+  io_utils.cpp
+  main.cpp
+  Pacman.cpp
+  Point.cpp
+  System.cpp
+C:\Users\keren\OneDrive\Desktop\לדברים הבאים\פרויקטים של הלימודים\CPP\Pacman-Ex2\Pacman-Game-master\System.cpp(6,24): warning C4101: 'dir': unreferenced local variable
+C:\Users\keren\OneDrive\Desktop\לדברים הבאים\פרויקטים של הלימודים\CPP\Pacman-Ex2\Pacman-Game-master\System.cpp(6,115): warning C4101: 'fruitScore': unreferenced local variable
+C:\Users\keren\OneDrive\Desktop\לדברים הבאים\פרויקטים של הלימודים\CPP\Pacman-Ex2\Pacman-Game-master\System.cpp(8,7): warning C4101: 'c': unreferenced local variable
+C:\Users\keren\OneDrive\Desktop\לדברים הבאים\פרויקטים של הלימודים\CPP\Pacman-Ex2\Pacman-Game-master\System.cpp(6,15): warning C4101: 'tempKey': unreferenced local variable
+  Generating Code...
+  Pacman Game.vcxproj -> C:\Users\keren\OneDrive\Desktop\לדברים הבאים\פרויקטים של הלימודים\CPP\Pacman-Ex2\Pacman-Game-master\x64\Debug\Pacman Game.exe
