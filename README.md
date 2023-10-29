@@ -2,8 +2,8 @@
 
 A Pacman game implemented in C++ with additional features such as fruits, smarter ghosts, and loading screens from files.
 
-![Game screen 1][screenGame.jpeg]
-![Game board][Game.jpeg]
+![Game screen 1][./screenGame.jpeg]
+![Game board][./Game.jpeg]
 ## Table of Contents
 
 - [About](#about)
