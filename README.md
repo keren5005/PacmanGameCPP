@@ -12,13 +12,6 @@ A Pacman game implemented in C++ with additional features such as fruits, smarte
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Game Levels](#game-levels)
-- [Loading Screens](#loading-screens)
-- [Screenshots](#screenshots)
-- [How to Play](#how-to-play)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## About
 
